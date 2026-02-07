@@ -1,0 +1,2 @@
+# cse5280_assignment_cost_functions_for_floor_plan_navigation
+CSE5280 assignment on animation by cost minimization 
